@@ -11,5 +11,9 @@ public with sharing class helloManu {
     {
         
     }
+    public static void manu3()
+    {
+        
+    }
      
 }
